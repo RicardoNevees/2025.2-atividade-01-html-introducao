@@ -7,3 +7,9 @@ Box-sizing: border-box -> faz com que o tamanho de cada elemento (largura/altura
     padding: 0;
     box-sizing: border-box;
 }
+
+body {
+    font-size: 36px;
+    color: #333333;
+    text-align: left;
+}
