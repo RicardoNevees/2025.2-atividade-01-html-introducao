@@ -30,3 +30,10 @@ h3 {
     color: #34495e;
     text-align: left;
 }
+
+p {
+    font-size: 14px;
+    color: #444444;
+    text-align: justify;
+
+}
