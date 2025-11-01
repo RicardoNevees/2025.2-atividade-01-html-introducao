@@ -9,7 +9,7 @@ Box-sizing: border-box -> faz com que o tamanho de cada elemento (largura/altura
 }
 
 body {
-    font-size: 36px;
+    font-size: 16px;
     color: #333333;
     text-align: left;
 }
@@ -23,7 +23,6 @@ h2 {
     font-size: 28px;
     color: #2c3e50;
     text-align: center;
-    margin-bottom: 14px;
 }
 h3 {
     font-size: 24px;
