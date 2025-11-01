@@ -30,6 +30,10 @@ h3 {
     color: #34495e;
     text-align: left;
 }
+h4 {
+    font-size: 20px;
+    color: #555555;
+}
 
 p {
     font-size: 14px;
