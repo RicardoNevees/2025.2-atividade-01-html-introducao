@@ -73,14 +73,16 @@ span {
 /* duas novas classes personalizadas */
 .titulo-principal {
     color: #004d40;
-    font-size 3px;
+    font-size 28px;
     text-align: center;
+    margin-bottom: 5px;
 }
 
 .subtitulo {
     color: #8e44ad;
-    font-size: 22px;
+    font-size: 16px;
     text-align: right;
+    line-height: 1.4;
 }
 
 /* aplicando alinhamenteos diferentes */
@@ -131,4 +133,3 @@ div {
 .info-pessoal {
     text-align: left;
 }   
-
