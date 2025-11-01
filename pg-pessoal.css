@@ -133,3 +133,16 @@ div {
 .info-pessoal {
     text-align: left;
 }   
+
+/* ícones sociais */
+.icone-social {
+    width: 40px;
+    height: 40px;
+    margin-right: 0 10px;
+    vertical-align: middle;
+    transition: transform 0.2s;
+}
+
+.icone-social:hover {
+    transform: scale(1.1);
+}
