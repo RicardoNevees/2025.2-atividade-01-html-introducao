@@ -1,0 +1,9 @@
+/* Seletor Universal -> aplica o estilo a todos os elementos HTML da página.
+Margin -> remove as margens padrão dos elementos
+Padding -> remove os espaçamentos internos padrão
+Box-sizing: border-box -> faz com que o tamanho de cada elemento (largura/altura) inclua a borda e o padding, facilitando o controle do layout. */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
