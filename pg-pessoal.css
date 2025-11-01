@@ -9,9 +9,11 @@ Box-sizing: border-box -> faz com que o tamanho de cada elemento (largura/altura
 }
 
 body {
-    font-size: 16px;
-    color: #333333;
-    text-align: left;
+    font-family: 'Seoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f7f7f7;
+    color: #3333;
+    margin: 0;
+    padding: 0;
 }
 
 h1 {
@@ -149,4 +151,17 @@ div {
 
 .icone-social:hover {
     transform: scale(1.1);
+}
+
+#titulo-princpal {
+    position: fixed;
+    top: o;
+    left: 0;
+    width: 100%;
+    background-color: #004040;
+    color: white;
+    text-align: center;
+    padding: 15px 0;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    z-index: 1000;
 }
