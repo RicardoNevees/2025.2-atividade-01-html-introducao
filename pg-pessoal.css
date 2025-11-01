@@ -70,3 +70,29 @@ span {
     color: #8e44ad;
     font-size: 14px;
 }
+
+/* duas novas classes personalizadas */
+.titulo-principal {
+    color: #004d40;
+    font-size 3px;
+    text-align: center;
+}
+
+.subtitulo {
+    color: #8e44ad;
+    font-size: 22px;
+    text-align: right;
+}
+
+/* aplicando alinhamenteos diferentes */
+#contatos {
+    text-align: left;
+}
+
+#estudos-atuais {
+    text-align: justify;
+}
+
+#tecnologias-conhecidas {
+    text-align: right;
+}
